@@ -1,5 +1,3 @@
-Scaffold-DbContext "Server=SeguridadWebdb2022.mssql.somee.com; Database=SeguridadWebdb2022; User ID=Jose2022_SQLLogin_2; Password=awqh561; Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -DataAnnotations -Force
-
 ## **DATA TYPES**
 Cadena de textos
 ```SQL
